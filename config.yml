@@ -20,7 +20,7 @@ enableEmoji: true
 params:
   author: Rahul Kande
   # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-  info: ["Ph.D. Student", "Secure and Trustworthy Hardware (SETH) Lab", "Texas A&M University"]
+  info: ["Ph.D. Student in Computer Engineering", "Secure and Trustworthy Hardware (SETH) Lab", "Texas A&M University"]
   description: Rahul Kande's website
   keywords: "rahul,kande,TAMU,rahulkande,TheHuzz,SETH,security,hardware,vulnerabilities,RISC-V,Hack@EVENT"
   avatarurl: images/rahul.jpg
