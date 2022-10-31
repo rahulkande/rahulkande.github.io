@@ -1,7 +1,10 @@
 baseURL: https://www.rahulkande.com/
 languageCode: en-us
 title: Rahul Kande
-theme: hugo-coder
+theme: 
+- hugo-coder
+#- PaperMod
+#- hugo-piko
 
 defaultcontentlanguage: en-us
 
@@ -52,17 +55,26 @@ params:
   social:
     - name: Github
       icon: fa fa-github fa-2x
-      weight: 1
+      weight: 60
       url: https://github.com/rahulkande
     - name: Gitlab
       icon: fa fa-gitlab fa-2x
-      weight: 2
+      weight: 50
       url: https://gitlab.com/rahulkande
     - name: "LinkedIn"
       icon: fa fa-2x fa-linkedin
-      weight: 3
+      weight: 20
       url: https://www.linkedin.com/in/rahulkande/
+    - name: "Email"
+      icon: fa fa-2x fa-envelope
+      weight: 1
+      url: mailto:rahulkande@tamu.edu
+    - name: "Google Scholar"
+      icon: ai ai-google-scholar ai-2x
+      weight: 10
+      url: https://scholar.google.com/citations?user=4X6V5rwAAAAJ&hl=en&oi=ao
  
+
 taxonomies:
   category: categories
   series: series
@@ -75,9 +87,14 @@ menu:
   - identifier: publications
     name: Publications
     weight: 1
-    url: publications/
+    url: "/publications/"
 
-  - identifier: contact us
-    name: Contact me
-    weight: 2
-    url: contact/
+  # - identifier: "test"
+  #   name: "Test"
+  #   weight: 2
+  #   url: "/test/"
+
+  # - identifier: "contact us"
+  #   name: "Contact me"
+  #   weight: 2
+  #   url: "/contact/"
