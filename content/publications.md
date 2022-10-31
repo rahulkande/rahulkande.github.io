@@ -10,7 +10,7 @@ summary: publications
 
 
 > ### [TheHuzz: Instruction Fuzzing of Processors Using Golden-Reference Models for Finding Software-Exploitable Vulnerabilities](https://www.usenix.org/conference/usenixsecurity22/presentation/kande)
-> Rahul Kande, Addison Crump, Garrett Persyn, Patrick Jauernig, Ahmad-Reza Sadeghi, Aakash Tyagi, and Jeyavijayan Rajendran
+> [**Rahul Kande**](https://www.rahulkande.com/), [Addison Crump](https://addisoncrump.info/), [Garrett Persyn](https://sites.google.com/a/tamu.edu/gpersyn/summary?authuser=1), [Patrick Jauernig](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_48896.en.jsp), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), [Aakash Tyagi](https://engineering.tamu.edu/cse/profiles/tyagi-aakash.html), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
 >
 > ***USENIX Security Symposium 2022***
 >
@@ -18,7 +18,7 @@ summary: publications
 
 
 > ### [Trusting the Trust Anchor: Towards Detecting Cross-Layer Vulnerabilities with Hardware Fuzzing](https://dl.acm.org/doi/10.1145/3489517.3530638)
-> Chen Chen, Rahul Kande, Pouya Mahmoody, Ahmad-Reza Sadeghi, and Jeyavijayan Rajendran
+> [Chen Chen](https://seth.engr.tamu.edu/people/chen-chen/), [**Rahul Kande**](https://www.rahulkande.com/), [Pouya Mahmoody](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_85120.en.jsp), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
 >
 > ***ACM/IEEE Design Automation Conference 2022***
 >
@@ -28,7 +28,7 @@ summary: publications
 # 2021
 
 > ### [Organizing The World’s Largest Hardware Security Competition: Challenges, Opportunities, and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3453688.3464508)
-> Ahmad-Reza Sadeghi, Jeyavijayan Rajendran, and Rahul Kande
+>[Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/), and [**Rahul Kande**](https://www.rahulkande.com/)
 >
 > ***Great Lakes Symposium on VLSI 2021***
 >
