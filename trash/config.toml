@@ -25,7 +25,7 @@ enableEmoji = true
   favicon_16 = "images/male16.png"
   
   
-  dateFormat = "September 2, 2022" 
+  #dateFormat = "September 2, 2006" 
   since = 2022
 
   enableTwemoji = true
