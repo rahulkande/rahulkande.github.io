@@ -1,10 +1,18 @@
+<style>
+
+  .zoom:hover{
+      transform: scale(1.2);
+  }
+  </style>
+
+
 {{ with .Site.Params.social }}
 <ul>
   {{ range sort . "weight" }}
     {{ if .icon }}
       <li>
         <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }} {{ if .title }}title="{{ .title }}"{{ end }}>
-          <i class="{{ .icon }}" aria-hidden="true"></i>
+          <i class="{{ .icon }} zoom" aria-hidden="true"></i>
         </a>
       </li>
     {{ else }}

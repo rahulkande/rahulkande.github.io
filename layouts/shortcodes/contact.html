@@ -2,7 +2,11 @@
   
     .contact_icon {
         /* color:rgb(155, 223, 77); */
-        font-size:400%;
+        font-size:500%;
+    }
+
+    .zoom:hover{
+        transform: scale(1.2);
     }
     </style>
 
@@ -13,8 +17,8 @@
             {{ range sort . "weight" }}
                 {{ if .icon }}
                 <li>
-                    <a href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }} {{ if .title }}title="{{ .title }}"{{ end }}>
-                    <i class="{{ .icon }} contact_icon" aria-hidden="true"></i>
+                    <a itemprop="sameAs" href="{{ .url | safeURL }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }} {{ if .type }}type="{{ .type }}"{{ end }} {{ if .title }}title="{{ .title }}"{{ end }}>
+                    <i class="{{ .icon }} contact_icon zoom" aria-hidden="true"></i>
                     </a>
                 </li>
                 {{ else }}
