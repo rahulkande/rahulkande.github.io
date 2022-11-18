@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 #layout: "archives"
 url: "/about/"
 summary: 

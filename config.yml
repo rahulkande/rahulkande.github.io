@@ -110,12 +110,12 @@ menu:
     url: "/publications/"
 
   - identifier: "about"
-    name: "About"
+    name: "About Me"
     weight: 1
     url: "/about/"
 
-  - identifier: "contact me"
-    name: "Contact me"
+  - identifier: "contact"
+    name: "Contact"
     weight: 4
     url: "/contact/"
 
