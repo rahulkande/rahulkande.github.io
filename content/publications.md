@@ -6,12 +6,30 @@ summary: publications
 ---
 
 
+# 2024
+
+> ### [MABFuzz: Multi-Armed Bandit Algorithms for Fuzzing Processors](https://arxiv.org/abs/2311.14594)
+> [Vasudev Gohil](https://gohilvasudev.wixsite.com/website), [**Rahul Kande**](https://www.rahulkande.com/), [Chen Chen](https://seth.engr.tamu.edu/people/chen-chen/), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/) 
+>
+> ***Design, Automation and Test in Europe Conference (DATE) 2024 (accepted)*** 
+>
+> [`Cite`](/misc/cite_mabfuzz) [`Paper`](https://arxiv.org/abs/2311.14594) [`Queries`](/misc/paper_queries)
+
+
+> ### Beyond Random Inputs: A Novel ML-Based Hardware Fuzzing
+> [Mohamadreza Rostami](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_124864.en.jsp), [Marco Chilese](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_115712.en.jsp), [Shaza Zeitouni](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_49344.en.jsp), [**Rahul Kande**](https://www.rahulkande.com/), [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/), and [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp)
+>
+> ***Design, Automation and Test in Europe Conference (DATE) 2024 (accepted)*** 
+>
+> [`Cite`](/misc/cite_chatfuzz)  [`Queries`](/misc/paper_queries)
+
+
 # 2023
 
 > ### [PSOFuzz: Fuzzing Processors with Particle Swarm Optimization](https://arxiv.org/abs/2307.14480)
 > [Chen Chen](https://seth.engr.tamu.edu/people/chen-chen/), [Vasudev Gohil](https://gohilvasudev.wixsite.com/website), [**Rahul Kande**](https://www.rahulkande.com/), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp),  and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
 >
-> ***IEEE/ACM International Conference on Computer-Aided Design 2023*** 
+> ***IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2023*** 
 >
 > [`Cite`](/misc/cite_psofuzz)  [`Paper`](https://arxiv.org/abs/2307.14480)  [`Queries`](/misc/paper_queries)
 
@@ -27,7 +45,7 @@ summary: publications
 >
 > ***USENIX Security Symposium 2023*** (Prev. year acceptance rate: 18%)
 >
-> [`Cite`](/misc/cite_hypfuzz)  [`Paper`](https://www.usenix.org/system/files/usenixsecurity23-chen-chen.pdf)  [`Slides`](https://www.usenix.org/system/files/sec23_slides_chen-chen.pdf)  [`Queries`](/misc/paper_queries)
+> [`Cite`](/misc/cite_hypfuzz)  [`Paper`](https://www.usenix.org/system/files/usenixsecurity23-chen-chen.pdf) [`Trophies`](/misc/hypfuzz_trophies) [`Slides`](https://www.usenix.org/system/files/sec23_slides_chen-chen.pdf) [`Queries`](/misc/paper_queries)
 
 
 # 2022
@@ -44,7 +62,7 @@ summary: publications
 > ### [Trusting the Trust Anchor: Towards Detecting Cross-Layer Vulnerabilities with Hardware Fuzzing](https://dl.acm.org/doi/10.1145/3489517.3530638)
 > [Chen Chen](https://seth.engr.tamu.edu/people/chen-chen/), [**Rahul Kande**](https://www.rahulkande.com/), [Pouya Mahmoody](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_85120.en.jsp), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
 >
-> ***ACM/IEEE Design Automation Conference 2022***
+> ***ACM/IEEE Design Automation Conference (DAC) 2022***
 >
 > [`Cite`](/misc/cite_trusting)  [`Paper`](https://dl.acm.org/doi/10.1145/3489517.3530638) [`Queries`](/misc/paper_queries)
 
@@ -54,6 +72,6 @@ summary: publications
 > ### [Organizing The World’s Largest Hardware Security Competition: Challenges, Opportunities, and Lessons Learned](https://dl.acm.org/doi/abs/10.1145/3453688.3464508)
 >[Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/), and [**Rahul Kande**](https://www.rahulkande.com/)
 >
-> ***Great Lakes Symposium on VLSI 2021***
+> ***Great Lakes Symposium on VLSI (GLSVLSI) 2021***
 >
 > [`Cite`](/misc/cite_organizing)  [`Paper`](https://dl.acm.org/doi/abs/10.1145/3453688.3464508) [`Talk`](https://dl.acm.org/doi/abs/10.1145/3453688.3464508) [`Queries`](/misc/paper_queries)
