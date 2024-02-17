@@ -1,5 +1,5 @@
 ---
-title: "Cite LLM-assisted Assertion Generation paper"
+title: "Cite (Security) Assertions by Large Language Models paper"
 #layout: "archives"
 url: "/misc/cite_llm"
 summary: cite llm

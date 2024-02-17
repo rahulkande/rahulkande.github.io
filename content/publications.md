@@ -12,13 +12,15 @@ summary: publications
 > ### [WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors](https://arxiv.org/abs/2402.03704)
 > Pallavi Borkar, [Chen Chen](https://seth.engr.tamu.edu/people/chen-chen/), [Mohamadreza Rostami](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_124864.en.jsp), Nikhilesh Singh, [**Rahul Kande**](https://www.rahulkande.com/), [Ahmad-Reza Sadeghi](https://www.informatik.tu-darmstadt.de/systemsecurity/people_sys/people_details_sys_45184.en.jsp), [Chester Rebeiro](http://www.cse.iitm.ac.in/~chester/), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
 >
-> ***USENIX Security Symposium 2024 (accepted)*** (Prev. year acceptance rate: 29%)
+> ***USENIX Security Symposium, 2024 (accepted)*** (Prev. year acceptance rate: 29%)
 >
 > [`Cite`](/misc/cite_whisperfuzz)  [`Paper`](https://arxiv.org/abs/2402.03704) [`Queries`](/misc/paper_queries)
 
 
-> ### [LLM-assisted Generation of Hardware Assertions](https://arxiv.org/abs/2304.02485)
+> ### [(Security) Assertions by Large Language Models](https://arxiv.org/abs/2304.02485)
 > [**Rahul Kande**](https://www.rahulkande.com/), [Hammond Pearce](https://www.cyberhammond.com/), [Benjamin Tan](https://profiles.ucalgary.ca/benjamin-tan), [Brendan Dolan-Gavitt](https://engineering.nyu.edu/faculty/brendan-dolan-gavitt), [Shailja Thakur](https://cyber.nyu.edu/profile/shailja-thakur/), [Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri), and [Jeyavijayan Rajendran](https://cesg.tamu.edu/people-2/faculty/jv-jeyavijayan-rajendran/)
+>
+> ***IEEE Transactions on Information Forensics and Security, 2024 (accepted)***
 >
 > [`Cite`](/misc/cite_llm)  [`Paper`](https://arxiv.org/abs/2306.14027) [`Queries`](/misc/paper_queries)
 
