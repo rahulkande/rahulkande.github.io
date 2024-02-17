@@ -14,7 +14,7 @@ summary: publications
 >
 > ***USENIX Security Symposium 2024 (accepted)*** (Prev. year acceptance rate: 29%)
 >
-> [`Cite`](/misc/cite_whipserfuzz)  [`Paper`](https://arxiv.org/abs/2402.03704) [`Queries`](/misc/paper_queries)
+> [`Cite`](/misc/cite_whisperfuzz)  [`Paper`](https://arxiv.org/abs/2402.03704) [`Queries`](/misc/paper_queries)
 
 
 > ### [LLM-assisted Generation of Hardware Assertions](https://arxiv.org/abs/2304.02485)
