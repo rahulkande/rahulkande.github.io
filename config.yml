@@ -8,7 +8,7 @@ theme:
 
 defaultcontentlanguage: en-us
 
-paginate: 20
+pagination.pagerSize: 20
 
 pygmentsstyle: bw
 pygmentscodefences: true
