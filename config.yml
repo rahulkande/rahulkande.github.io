@@ -119,7 +119,7 @@ menu:
     weight: 4
     url: "/contact/"
 
-  - identifier: "cv"
-    name: "CV"
+  - identifier: "resume"
+    name: "Resume"
     weight: 3
     url: "pdfs/resume_Rahul_Kande.pdf"
